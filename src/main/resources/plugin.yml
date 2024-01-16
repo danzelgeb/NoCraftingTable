@@ -1,0 +1,4 @@
+name: NoCraftingTable
+version: '${project.version}'
+main: de.theunycraft.nocraftingtable.NoCraftingTable
+api-version: '1.20'

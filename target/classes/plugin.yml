@@ -1,0 +1,4 @@
+name: NoCraftingTable
+version: '1.0-SNAPSHOT'
+main: de.theunycraft.nocraftingtable.NoCraftingTable
+api-version: '1.20'

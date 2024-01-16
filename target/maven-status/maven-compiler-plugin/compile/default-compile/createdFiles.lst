@@ -1,0 +1,8 @@
+de\theunycraft\nocraftingtable\commands\StartCommand.class
+de\theunycraft\nocraftingtable\listener\BlockInteractListener.class
+de\theunycraft\nocraftingtable\commands\ResetCommand.class
+de\theunycraft\nocraftingtable\manager\TimerManager$1.class
+de\theunycraft\nocraftingtable\NoCraftingTable.class
+de\theunycraft\nocraftingtable\manager\TimerManager.class
+de\theunycraft\nocraftingtable\listener\JoinQuitListener.class
+de\theunycraft\nocraftingtable\commands\PauseCommand.class
